@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redirect Webinar</title>
+    <script>
+        window.location.href = "https://chat.whatsapp.com/ENTmHeSuJjaBxhl3rWq0z8?mode=gi_t";
+    </script>
+</head>
+<body>
+    <p>Mengarahkan ke grup WhatsApp...</p>
+</body>
+</html>
